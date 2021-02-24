@@ -1,0 +1,23 @@
+﻿CODEBUCH;
+Machtkampf um VfB Präsidentenamt;
+Wert;Kommentar
+edgelist;Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
+from;definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort
+to;definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc.
+nodelist;Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+id;eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.
+name;Name der Person oder der Organisation
+type;0= steht für Personen und 1= Organisation
+age;Geburtsjahr bei Personen oder das Gründungsjahr des Unternehmens
+NA;definiert fehlende Werte, bei der Datenerhebung das Feld einfach weglassen.
+representation;Stellung innerhalb des VfBs nach Themenbereichen sortiert
+comitee;"V= Vorstand; AR= Aufsichtsrat"
+position;Position innerhalb der VfB Leitung
+;
+Verpflichten Sie alle Teammitglieder darauf, das Codebuch zwingend einzuhalten.;
+Wer seine Daten nicht sauber erstellt muss diese nachbereinigen.;
+Dokumentieren Sie jeden Schritt Ihrer Datenerfassung mit, um dies zu rekonstruieren.;
+Nutzen Sie das Skript zur Datenbereinigung auf dem letzten Reiter!;
+Beispiel für die Dokumentation von Codebuch, Edge- und Nodelist;
+https://github.com/hdm-crpr/226305/tree/master/data/crpr2;
+Vergeben Sie stets eindeutige Spaltenbeschriftungen. Am besten immer nur ein Begriff ohne Sonderzeichen etc.;
