@@ -1,5 +1,7 @@
 ﻿CODEBUCH;
 Machtkampf um VfB Präsidentenamt;
+Dieses Codebuch ist Teil der Prüfungsvorleistung für das Modul SNA im WS20/21 von Fabienne Schackert (fs138@hdm-stuttgart.de) ;
+Aufgabe ist es, eine Netzwerkanalyse der Mitglieder des Vorstands und des Aufsichtsrats durchzuführen. Dazu interessiert uns besonders, wer mit wem vernetzt ist.;
 Wert;Kommentar
 edgelist;Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
 from;definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort
@@ -14,10 +16,6 @@ representation;Stellung innerhalb des VfBs nach Themenbereichen sortiert
 comitee;"V= Vorstand; AR= Aufsichtsrat"
 position;Position innerhalb der VfB Leitung
 ;
-Verpflichten Sie alle Teammitglieder darauf, das Codebuch zwingend einzuhalten.;
-Wer seine Daten nicht sauber erstellt muss diese nachbereinigen.;
-Dokumentieren Sie jeden Schritt Ihrer Datenerfassung mit, um dies zu rekonstruieren.;
-Nutzen Sie das Skript zur Datenbereinigung auf dem letzten Reiter!;
 Beispiel für die Dokumentation von Codebuch, Edge- und Nodelist;
 https://github.com/hdm-crpr/226305/tree/master/data/crpr2;
 Vergeben Sie stets eindeutige Spaltenbeschriftungen. Am besten immer nur ein Begriff ohne Sonderzeichen etc.;
