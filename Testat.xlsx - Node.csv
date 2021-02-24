@@ -1,6 +1,6 @@
-﻿id;name;type;year;position;comitee;representation;;
-TH;Thomas Hitzlsberger;0;1982;Vorsitz;V;Sport;;
-OS;Oliver Schraft;0;1967;Mitglied Geschaeftsleitung;V;Kommunikation;;
+﻿id;name;type;year;position;rolle;representation;;
+TH;Thomas Hitzlsberger;0;1982;Vorsitz;Vst;Sport;;
+OS;Oliver Schraft;0;1967;Mitglied Geschaeftsleitung;Vst;Kommunikation;;
 CV;Claus Vogt;0;1969;Vorsitz Aufsichtsrat;AR;Politik;;
 WP;Wilfried Porth;0;1959;Stellvertreter Vorsitz Aufsichtsrat;AR;Politik;;
 RA;Rainer Adrion;0;1953;Mitglied Praesidium;AR;Politik;;
